@@ -1,4 +1,4 @@
-# This partition introduce that why we used the markdown and GIT&GITHUB#
+# This partition introduce that why we used the MARKDOWN and GIT&GITHUB #
 
 
 
