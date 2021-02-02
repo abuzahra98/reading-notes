@@ -3,10 +3,11 @@
 
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| read 1      | [edetors](class.md)       |
-| read 2      | [github and markdown](class1.md)        |
+| Syntax        | Description |
+| -----------   | ----------- |
+| read 1        | [edetors](class.md)       |
+| read 2        | [github and markdown](class1.md)        |
+| growth mindset|     [growth](bb.md)               |
 
 
 
