@@ -1,3 +1,3 @@
 # reading-notes
 
-[link](class1.md)
+[click](class1.md)
