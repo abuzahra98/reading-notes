@@ -1,6 +1,7 @@
-Welcome
+# Welcome #
+![photo](https://www.himgs.com/imagenes/hello/social/hello-fb-logo.png)
 
- today we talked about coding basics.
+## today we talked about coding basics. ##
 
  
 
@@ -10,7 +11,8 @@ Welcome
 
 3.terminal control .
 
-First 
+
+# First #
 
 what's ide????
 
@@ -30,13 +32,13 @@ Debugging
 
  
 
+****** 
+
+# second #
+
  
 
-second 
-
- 
-
-deference between code editor and text editor
+## deference between code editor and text editor: ##
 
  
 
@@ -68,13 +70,13 @@ text editor used to edit text files like a:
 
  
 
-third 
+# third #
 
  
-
+*****
  
 
-Terminal controls :
+## Terminal controls : ##
 
  
 
