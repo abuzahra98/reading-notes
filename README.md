@@ -8,7 +8,7 @@
 | CodEeditor vs TextEditor| [click](class.md)   |
 | Git and Markdown   |[click](class1.md)        |
 | growth mindset     |        [click](bb.md)    |
-| lear html and css  |   [click](class2.md)     |
+| lear html and css  |   [click](class5.md)     |
 
 
 ****
