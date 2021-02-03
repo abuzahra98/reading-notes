@@ -1,12 +1,12 @@
 # reading-notes
 
 
+![](https://i2.wp.com/alghad.com/wp-content/uploads/2020/04/LTUC-Logo.png?fit=1798%2C1189&ssl=1)
 
-
-| Syntax        | Description |
+| subject        | link |
 | -----------   | ----------- |
-| read 1        | [edetors](class.md)       |
-| read 2        | [github and markdown](class1.md)        |
+| CodEeditor vs TextEditor     | [edetors](class.md)       |
+| Git and Markdown       | [github and markdown](class1.md)        |
 | growth mindset|     [growth](bb.md)               |
 
 
