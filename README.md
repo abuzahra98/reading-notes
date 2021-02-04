@@ -1,12 +1,12 @@
 
 
 
-![](img/da.jpg)
+![daw](img/da.JPG)
 
 # `Dawood Abuzahra`
 **Software engineer**
 
-<br>
+</br>
 
 
 ****
@@ -17,9 +17,9 @@ Dear all i'am dawood-abuZahra i recently graduate from al balqa applied universi
 * Whatsapp: 00962797984521
 * Email: Dawoodbasher@gmail.com
 * GitHub: [github](https://github.com/abuzahra98)
-<br>
-<br>
-<br>
+</br>
+</br>
+</br>
 
 ## Table of content
 
