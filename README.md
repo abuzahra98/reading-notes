@@ -1,7 +1,7 @@
 
 
 
-![daw](img/da.JPG)
+![da](img/za.JPG)
 
 # `Dawood Abuzahra`
 **Software engineer**
@@ -28,7 +28,7 @@ Dear all i'am dawood-abuZahra i recently graduate from al balqa applied universi
 | CodEeditor vs TextEditor| [click](class.md)   |
 | Git and Markdown   |[click](class1.md)        |
 | growth mindset     |        [click](bb.md)    |
-| lear html and css  |   [click](class5.md)     |
+| lear html,css and WireFrames |   [click](class5.md)     |
 
 
 
