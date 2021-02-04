@@ -1,6 +1,6 @@
 # Firstly, thank you for visit this website. 
 ***
-*Many websites  that teach HTML and CSS resemble dull manuals. To make it easier for you to learn
+Many websites  that teach HTML and CSS resemble dull manuals. To make it easier for you to learn
 
 # the structure of thIs website :
 

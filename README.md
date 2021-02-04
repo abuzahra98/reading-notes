@@ -3,10 +3,10 @@
 
 ![da](img/za.JPG)
 
-# `Dawood Abuzahra`
+# Dawood Abuzahra
 **Software engineer**
 
-</br>
+
 
 
 ****
