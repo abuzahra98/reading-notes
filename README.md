@@ -23,23 +23,22 @@ Dear all i'am dawood-abuZahra i recently graduate from al balqa applied universi
 
 ## Table of content
 
-      subject                   link        |
- -----------         -----------              |
- CodEeditor vs TextEditor [click](class.md)   |
+  
+ CodEeditor vs TextEditor [click](class.md)   
 
- Git and Markdown   [click](class1.md)        |
+ Git and Markdown   [click](class1.md)        
 
- growth mindset            [click](bb.md)    |
+ growth mindset            [click](bb.md)    
 
- lear html,css and WireFrames|[click](class5.md)|
+ lear html,css and WireFrames [click](class5.md)
 
- Programming with JavaScript         [click](js.md)    |
+ Programming with JavaScript         [click](js.md)    
 
- loop in javascript         [click](r5.md)    |
+ loop in javascript         [click](r5.md)    
 
- JavaScript & jQuery         [click](jquery.md)    |
+ JavaScript & jQuery         [click](jquery.md)    
 
- css                       [click](css.md)    |
+ css                       [click](css.md)    
 
 
 
