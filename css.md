@@ -70,5 +70,4 @@ by individual values inside parentheses for:
 1. lightness
 1. alpha
 
-![](img/nmn.png
-)
+![](img/nmn.png)
