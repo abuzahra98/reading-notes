@@ -31,8 +31,8 @@ Dear all i'am dawood-abuZahra i recently graduate from al balqa applied universi
 | lear html,css and WireFrames|[click](class5.md)|
 | Programming with JavaScript |        [click](js.md)    |
 | loop in javascript |        [click](r5.md)    |
-| JavaScript & jQuery |        [click](css.md)    |
-| css |        [click](jquery.md)    |
+| JavaScript & jQuery |        [click](jquery.md)    |
+| css |        [click](css.md)    |
 
 
 
