@@ -1,26 +1,28 @@
-# welcome to learn web dev:
-## first we talked about html:
+# welcome to learn web dev
+
+## first we talked about html
 
 1. Headings:
 
 ```
 <h1> <h2> <h3> <h4> <h5> <h6>
-```
+
  HTML has six "levels" of headings:
- ```
+ 
 
 <h1> 
 is used for main headings
 
- <h2>
-  is used for subheadings
+<h2>
+is used for subheadings
 If there are further sections under the subheadings then the <h3> element is used, and so on...
-```
+
 2. Paragraphs:
 
-```
+
 <p>
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
+
 ```
 
 ![](img/p1.png)
@@ -36,6 +38,7 @@ By enclosing words in the tags <i> and </i> we can make characters appear italic
 ```
 
 4. superscribt&subscript:
+
 ```
 <sup>
 The <sup> element is used
@@ -44,7 +47,9 @@ as the suffixes of dates or mathematical concepts like raising a number to a pow
 
 <sub>
 The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
+
 ```
+
 ![](img/p2.png)
 
 5. line Braek & Horizontal rules:
@@ -200,10 +205,12 @@ by individual values inside parentheses for:
 
 
 ## using externaL css:
+
 ```
 <link>
 
 The <link> element can be used in an HTML document to tell the browser where to find the CSS file used to style the page. It is an empty element (meaning it does not need a closing tag), and it lives inside the <head> element. It should use three attributes:
+
 ```
 ## href
 This specifies the path to the CSS file (which is often placed in a folder called css or styles).
@@ -243,7 +250,9 @@ Statements should end with a semicolon.
  You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code.
 
  EX)
+
 ```
+
 if (hourNow > 18) {
 greet ing = 'Good evening ' ;
  else if (hourNow > 12) { 
@@ -252,6 +261,7 @@ else if (hourNow > 0) { greeting= 'Good morning';
 else {
 greeting = 'Welcome'; }
 document.write(greeting) ;
+
 ```
 
 ## WHAT IS A VARIABLE?
