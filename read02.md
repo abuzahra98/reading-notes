@@ -48,6 +48,7 @@ The <sub> element is used to contain characters that should be subscript. It is 
 ![](img/p2.png)
 
 5. line Braek & Horizontal rules:
+
 ```
 <br/>
 As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag <br />.
@@ -57,11 +58,13 @@ To create a break between themes — such as a change of topic in a book or a ne
 in a play — you can add a horizontal rule between sections using the <hr /> tag.
 
 ```
+
 # semantic markup:
 
 There are some text elements that are not intended to affect the structure of your web pages, but they do add extra information to the pages — they are known as semantic markup.
 
 ```
+
 In the rest of the chapter you will meet some more elements that will help you when you are adding text to web pages. For example, you are going to meet the <em> element that allows you to indicate where emphasis should be placed on selected words and the <blockquote> element which indicates that a block of text is a quotation.
 
 
@@ -72,8 +75,11 @@ and a <blockquote> is usually indented. But you should not use them to change th
 
 
 The reason for using these elements is that other programs, such as screen readers or search engines, can use this extra information. For example, the voice of a screen reader may add emphasis to the words inside the <em> element, or a search engine might register that your page features a quote if you use the <blockquote> element.
+
 ```
+
 6. strong & emphasis:
+
 ```
 <strong>
 The use of the <strong> element indicates that its content has strong importance.
@@ -81,19 +87,27 @@ The use of the <strong> element indicates that its content has strong importance
 <em>
 
 The <em> element indicates emphasis that subtly changes the meaning of a sentence.
+
 ```
+
 7. quotaartiiocnles:
+
 ```
+
 <blockquote>
 
 The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
 Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.
 
+```
+
+```
 
 <q>
 The <q> element is used for shorter quotes that sit within
 a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not — therefore many people avoid using the <q> element.
 Both elements may use the cite attribute to indicate where the quote is from. Its value should be a URL that will have more information about the source of the quotation.
+
 ```
 
 ![](img/p3.png)
@@ -106,6 +120,7 @@ Both elements may use the cite attribute to indicate where the quote is from. It
 <address>
 The <address> element has quite a specific use: to contain contact details for the author of the page.
 It can contain a physical address, but it does not have to. For example, it may also contain a phone number or email address.
+
 ```
 
 # thin we talked about scc:
