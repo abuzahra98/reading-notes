@@ -18,6 +18,7 @@ Dear all i'am dawood-abuZahra i recently graduate from al balqa applied universi
 * Email: Dawoodbasher@gmail.com
 * GitHub: [github](https://github.com/abuzahra98)
 
+in this section we talked about html css and javascript and then we learn how about connect to git and github
 
 ## Table of content
 
