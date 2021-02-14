@@ -93,21 +93,16 @@ The use of the <strong> element indicates that its content has strong importance
 
 The <em> element indicates emphasis that subtly changes the meaning of a sentence.
 
-```
+
 
 7. quotaartiiocnles:
 
-```
 
 <blockquote>
 
 The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
 Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.
 
-<q>
-The <q> element is used for shorter quotes that sit within
-a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not — therefore many people avoid using the <q> element.
-Both elements may use the cite attribute to indicate where the quote is from. Its value should be a URL that will have more information about the source of the quotation.
-
 ```
+
 
