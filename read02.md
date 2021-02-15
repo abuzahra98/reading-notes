@@ -81,11 +81,11 @@ and a <blockquote> is usually indented. But you should not use them to change th
 
 The reason for using these elements is that other programs, such as screen readers or search engines, can use this extra information. For example, the voice of a screen reader may add emphasis to the words inside the <em> element, or a search engine might register that your page features a quote if you use the <blockquote> element.
 
-```
+````
 
 6. strong & emphasis:
 
-```
+````
 <strong>
 The use of the <strong> element indicates that its content has strong importance.
 
@@ -102,7 +102,6 @@ The <em> element indicates emphasis that subtly changes the meaning of a sentenc
 
 The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
 Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.
-
-```
+````
 
 
