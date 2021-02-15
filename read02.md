@@ -6,20 +6,20 @@
 
 ```
 <h1> <h2> <h3> <h4> <h5> <h6>
-
+```
  HTML has six "levels" of headings:
  
-
+```
 <h1> 
 is used for main headings
 
 <h2>
 is used for subheadings
 If there are further sections under the subheadings then the <h3> element is used, and so on...
-
+```
 2. Paragraphs:
 
-
+```
 <p>
 To create a paragraph, surround the words that make up the paragraph with an opening <p> tag and closing </p> tag.
 
@@ -28,6 +28,7 @@ To create a paragraph, surround the words that make up the paragraph with an ope
 ![](img/p1.png)
 
 3. Bold & italic:
+
 ```
 <b>
 By enclosing words in the tags <b> and </b> we can make characters appear bold.
@@ -81,11 +82,11 @@ and a <blockquote> is usually indented. But you should not use them to change th
 
 The reason for using these elements is that other programs, such as screen readers or search engines, can use this extra information. For example, the voice of a screen reader may add emphasis to the words inside the <em> element, or a search engine might register that your page features a quote if you use the <blockquote> element.
 
-````
+```
+
 
 6. strong & emphasis:
-
-````
+```
 <strong>
 The use of the <strong> element indicates that its content has strong importance.
 
@@ -93,15 +94,18 @@ The use of the <strong> element indicates that its content has strong importance
 
 The <em> element indicates emphasis that subtly changes the meaning of a sentence.
 
+```
 
 
 7. quotaartiiocnles:
 
-
+```
 <blockquote>
 
 The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
 Browsers tend to indent the contents of the <blockquote> element, however you should not use this element just to indent a piece of text — rather you should achieve this effect using CSS.
-````
+
+```
+
 
 
