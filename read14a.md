@@ -195,3 +195,4 @@ In this case, we’ll first define a CSS animation in your styles. You’ll noti
         transform: translateX(0);
     }
 }
+```
