@@ -3,12 +3,10 @@
 ***Javascript Templating***
 3
 JavaScript templating refers to the client side data binding method implemented with the JavaScript language. This approach became popular thanks to JavaScript’s increased use, its increase in client processing capabilities, and the trend to outsource calculus to the client’s web browser. Popular JavaScript templating libraries are AngularJS, Backbone.js, Ember.js, Handlebars.js, and Mustache.js.
-@Dana-Kiswani
 Create Read-03.md
 5 months ago
 4
 
-@Dana-Kiswani
 Update Read-03.md
 5 months ago
 5
@@ -86,7 +84,7 @@ Flexbox is a one-dimensional layout method for laying out items in rows or colum
 42
  ```
 43
-@Dana-Kiswani
+
 Update Read-03.md
 5 months ago
 44
@@ -97,7 +95,6 @@ Update Read-03.md
 -column: same as row but top to bottom
 47
 -column-reverse: same as row-reverse but bottom to top
-@Dana-Kiswani
 Update Read-03.md
 5 months ago
 48
@@ -118,7 +115,6 @@ By default, flex items will all try to fit onto one line. You can change that an
   ```
 57
   
-@Dana-Kiswani
 Update Read-03.md
 5 months ago
 58
@@ -127,7 +123,6 @@ Update Read-03.md
 -wrap: flex items will wrap onto multiple lines, from top to bottom.
 60
 -wrap-reverse: flex items will wrap onto multiple lines from bottom to top.
-@Dana-Kiswani
 Update Read-03.md
 5 months ago
 61
