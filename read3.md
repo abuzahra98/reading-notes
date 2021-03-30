@@ -105,7 +105,7 @@ This defines the default size of an element before the remaining space is distri
 
 ``` ruby
 .item {
-   flex-basis:  | auto; /* default auto */
+   flex-basis:  | auto; /* def>ault auto */
  }
  ```
  
@@ -117,4 +117,4 @@ This is the shorthand for flex-grow, flex-shrink and flex-basis combined. The se
 .item {
   flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
 }
-```
+```>>>
