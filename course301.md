@@ -1,10 +1,10 @@
-# welcome to course 201:
+# welcome to course 301:
 
-## in this section we talked about html css and javascript and then we learn how about connect to git and github
+## in this section we talked about sql api and nodejs and then we learn how about connect to git and github
 
- read01[click](read1.md)
+ read1[click](read1.md)
 
-  read02[click](read2.md) 
+  read2[click](read2.md) 
 
   read3[click](read3.md) 
 
@@ -18,5 +18,6 @@ read7[click](read7.md)
 
 read8[click](read8.md) 
 
+read9[click](read9.md) 
 
 
