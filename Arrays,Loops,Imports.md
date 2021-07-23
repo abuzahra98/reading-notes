@@ -1,5 +1,5 @@
 # Arrays, Loops, Imports
-
+ 
 ## Packages and Imports
 
 Packages are grouped together Java classes, they are the same name as the directoryname that contains the .java files. The packages are declared when you define your Java program.
