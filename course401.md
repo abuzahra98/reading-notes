@@ -10,3 +10,5 @@
 * Maps,primitives,FileI/O [click](Maps,primitives,FileI/O.md)
 
 * OOP [click](OOP.md)
+
+* Linked Lists [click](LinkedLists.md)
