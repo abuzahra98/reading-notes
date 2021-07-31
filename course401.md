@@ -12,3 +12,6 @@
 * OOP [click](OOP.md)
 
 * Linked Lists [click](LinkedLists.md)
+
+* Inheritance and Interfaces [click](InheritanceandInterfaces.md)
+
