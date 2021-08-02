@@ -15,3 +15,5 @@
 
 * Inheritance and Interfaces [click](InheritanceandInterfaces.md)
 
+* OO Design [click](OODesign.md)
+
