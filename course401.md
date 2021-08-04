@@ -17,5 +17,8 @@
 
 * OO Design [click](OODesign.md)
 
-WRRC and Java [click](WRRCandJava.md)
+* WRRC and Java [click](WRRCandJava.md)
+
+* Stacks and Queues [click](StacksandQueues.md)
+
 
