@@ -46,4 +46,31 @@ public class ParameterStringBuilder { // Transforms a MAP into a formatted STRIN
 }
 ```
 
+## High-level HTTP:
+The HTTP Request Lifecycle:(1)
+
+* Local Processing
+* Resolve an IP
+* Establish a TCP Connection
+* Send an HTTP Request
+* Tearing Down and Cleaning Up
+
+
+Local Processing
+
+Browser will then go through its own cache of recently accessed URLs, the operating system’s cache of recent queries, router’s cache, and DNS cache to extract the “scheme”/protocol, host, optional port number, resource path, and query strings that are given in the form.
+
+Resolve an IP
+
+If the cache lookup fails, the browser sends a UDP3 DNS request to its target DNS server. If a response isn’t received, the request will be forwarded to another server. This is because the server looks for the address associated with the requested hostname and sends a response. If it doesn’t arrive, the client has no idea how long it will take.
+
+
+
+Establish a TCP Connection
+
+
+Before the server can accept a three-way handshake, the client must first create a TCP connection. The server must be listening on a port and executing a passive open, after which the client can conduct an active open and the client-server connection will be recognized. This allows the receiver to restore the original order of received packets and the sender to restore the original order of sent packets.
+
+
+
 [<== Back to Readme](README.md)
