@@ -21,4 +21,6 @@
 
 * Stacks and Queues [click](StacksandQueues.md)
 
+* Spring MVC and Thymeleaf [click](SpringMVCandThymeleaf.md)
+
 
