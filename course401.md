@@ -23,4 +23,6 @@
 
 * Spring MVC and Thymeleaf [click](SpringMVCandThymeleaf.md)
 
+* Spring RESTful Routing & Static Files [click](SpringRESTfulRouting&StaticFiles.md)
+
 
