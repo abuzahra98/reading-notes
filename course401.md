@@ -25,4 +25,7 @@
 
 * Spring RESTful Routing & Static Files [click](SpringRESTfulRouting&StaticFiles.md)
 
+* Related Resources and Integration Testing [click](RelatedResources.md)
+
+
 
